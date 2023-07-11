@@ -4,8 +4,8 @@
 
 The application utilizes two data sources:
 
-* Employee data from a Postgres database.
-* Department names from a CSV file.
+1. Employee data from a Postgres database.
+2. Department names from a CSV file.
 
 The goal is to amalgamate these data sources, process the data, and output a list of employees who earn the second highest salary within their respective departments.
 
