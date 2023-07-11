@@ -26,4 +26,4 @@ The goal is to amalgamate these data sources, process the data, and output a lis
 
 The output can be validated by running SQL queries directly in your PostgreSQL database and manually inspecting the CSV file. Alternatively, you can compare the application output with another trusted data source or method.
 
-![image](https://github.com/Kinginrob/2ndHighestSalary/assets/89039139/76860611-872e-481a-bce4-f7723690c271)
+![image](https://github.com/Kinginrob/2ndHighestSalary/assets/89039139/c4800151-ab70-4304-a1e6-7b996f55ac48)
