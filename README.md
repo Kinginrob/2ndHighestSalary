@@ -1,4 +1,4 @@
-# 2ndHighestSalary
+# Employee Salary Report Generator
 
 ## Description
 
